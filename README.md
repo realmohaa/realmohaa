@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ⚡ My name is Moha, I am a Computer Science BSc. senior student in the University of Debrecen.
+- 🌱 I’m continousily learning and passionate about Software Development.
+
 <!--
 **realmohaa/realmohaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
