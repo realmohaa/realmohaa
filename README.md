@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ My name is Moha, I am a Computer Science BSc. senior student in the University of Debrecen.
+- ⚡ My name is Moha, I am a senior Computer Science BSc student in the University of Debrecen.
 - 🌱 I’m continousily learning and passionate about Software Development.
 - 📫 How to reach me: realmohaa@outlook.com
 
