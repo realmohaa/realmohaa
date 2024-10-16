@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ My name is Moha, I am a Full-Stack Developer.
+- ⚡ My name is Modo, I am a Full-Stack Developer.
 - 💬 I have worked on developing multiple full-stack applications using MERN for (<a href="https://kopii.ae">KOPII</a>, <a href="https://mayadin.com">Mayadin</a>, Kavani, Auteev)...
 - 👯 I'm currently working on developing Microserivces with Spring Boot for several projects.
 - 🔭 Earned BSc in Computer Science from the University of Debrecen, Hungary.
